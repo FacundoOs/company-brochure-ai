@@ -1,0 +1,23 @@
+{
+  "name": "Company Brochure AI",
+  "short_name": "Brochure AI",
+  "description": "Generate polished company brochures from live websites using LLM reasoning and web scraping.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple"
+    }
+  ]
+}
